@@ -55,7 +55,7 @@
 					"flowname": "org.gluu.agama.typekey",
 					"displayName": "Typekey",
 					"hasComment": true,
-					"comment": ""
+					"comment": "Typekey is scheduled for deletion"
 				},
 				"id": "startNode-bbdc53cb-8ccd-4ea7-aeb8-f5ea4b4170c1",
 				"type": "startNode",
@@ -74,7 +74,8 @@
 				"width": 170,
 				"height": 123
 			},
-			"selected": false
+			"selected": true,
+			"deletable": false
 		},
 		{
 			"data": {
@@ -108,7 +109,8 @@
 			"measured": {
 				"width": 170,
 				"height": 123
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -274,7 +276,7 @@
 				"width": 170,
 				"height": 123
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
@@ -1888,8 +1890,8 @@
 		}
 	],
 	"viewport": {
-		"x": -186.7166748046875,
-		"y": 120.14167022705078,
-		"zoom": 0.5
+		"x": 0,
+		"y": 0,
+		"zoom": 1
 	}
 }
