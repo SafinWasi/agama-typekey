@@ -74,7 +74,7 @@
 				"width": 170,
 				"height": 123
 			},
-			"selected": true,
+			"selected": false,
 			"deletable": false
 		},
 		{
@@ -207,7 +207,8 @@
 			"measured": {
 				"width": 170,
 				"height": 123
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -650,7 +651,7 @@
 					"nodeIcon": "material-symbols:line-end-square-rounded",
 					"displayName": "Typekey failed, password passed",
 					"hasComment": true,
-					"comment": "",
+					"comment": "Temp",
 					"returnVariable": "{ userId: user.username }",
 					"finishMode": "withSuccess"
 				},
@@ -672,7 +673,8 @@
 			"measured": {
 				"width": 170,
 				"height": 123
-			}
+			},
+			"selected": true
 		},
 		{
 			"data": {
@@ -1890,8 +1892,8 @@
 		}
 	],
 	"viewport": {
-		"x": 0,
-		"y": 0,
+		"x": -3283,
+		"y": -39,
 		"zoom": 1
 	}
 }
